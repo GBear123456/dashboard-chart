@@ -24,6 +24,17 @@ git push -uf origin main
 
 - [ ] [Set up project integrations](https://gitlab.com/GBear123456/dashboard-chart/-/settings/integrations)
 
+This project was developed by me in a personal project, but, i am making open-source for more contribs. 
+
+- [ReactJS](https://pt-br.reactjs.org)
+- [React-Router-Dom](https://www.npmjs.com/package/react-router-dom)
+- [Redux](https://redux.js.org)
+- [React-Notifications-Component](https://www.npmjs.com/package/react-notifications-component)
+- [Styled Components](https://styled-components.com)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+- [Styled-React-Modal](https://www.npmjs.com/package/styled-react-modal)
+- [chart](https://codesandbox.io/examples/package/react-chartjs-2)
+
 ## Collaborate with your team
 
 - [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
@@ -43,6 +54,23 @@ Use the built-in continuous integration in GitLab.
 - [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 
 ***
+
+# Clone this repository
+$ git clone https://gitlab.com/GBear123456/dashboard-chart
+
+# Go into the repository
+
+$ cd dashboard-reactjs
+
+# Install packages
+
+$ yarn install or npm install
+
+# Run start and enjoy
+
+$ yarn start or npm start
+
+# Enjoy!
 
 # Editing this README
 
@@ -90,3 +118,10 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
+
+After this, you may develop the new feature. Once you are done, send a pull request and contact me to check your contribution and merge it into master. Also, I will add credits for you in this repository :smile:
+
+---
+
+Made with GBearHan [Visit my LinkedIn!](linkedin.com/in/baocheng-han-669334225) :wave:
